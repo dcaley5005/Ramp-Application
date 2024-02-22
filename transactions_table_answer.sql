@@ -1,3 +1,9 @@
+/*
+January 31's rolling 3 day average of transaction amount is 2046.45. Please see how I set up the database and answer below.
+
+*/
+
+
 CREATE TABLE transactions
 (
     "transaction_time"   TIMESTAMP,
